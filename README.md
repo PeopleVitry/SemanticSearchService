@@ -1,0 +1,1 @@
+This plugin required LiangLeeFramework 1.1.3

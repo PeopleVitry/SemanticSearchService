@@ -1,19 +1,16 @@
-<?xml version="1.2" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
-	<name>Semantic Search Service</name>
-	<author>NaouelA.</author>
-	<version>1.0</version>
-	<blurb>Information Search Service for People Project- Vitry sur Seine</blurb>
-	<description>A Service plugin for People Europeen Project Vitry sur Seine Pilot</description>
-	<website>http://people-project.eu/portal/</website>
+	<name>Search</name>
+	<author>Imed</author>
+	<version>1.0.0</version>
+	<category>Search</category>
+	<description>Search.</description>
+	<website></website>
 	<copyright></copyright>
-	<license>GPL 2</license>
+	<license>GNU General Public License version 2</license>
 	<requires>
-		<type>elgg_version</type>
+		<type>elgg_release</type>
 		<version>1.8</version>
 	</requires>
-	<conflicts>
-        <type>plugin</type>
-        <name> Semantic search</name>
-    </conflicts>
+
 </plugin_manifest>
