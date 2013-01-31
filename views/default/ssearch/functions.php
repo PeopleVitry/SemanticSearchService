@@ -1,5 +1,4 @@
 <?php
-
 function connectiondb(){
 
 $connection= mysql_connect("localhost", "root", "");

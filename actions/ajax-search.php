@@ -30,7 +30,7 @@ else
     ?>
         <div class="article-result">
 		
-		<div class='objet'><a href='?code=<?php echo $post->code; ?>'><img src='http://88.168.148.60:4453/elgg/mod/ssearch/images/<?php echo $post->images;?>' border='0' title='<?php echo $post->libelle; ?>' alt='<?php echo $post->libelle; ?>'></a></div>
+		<div class='objet'><a href='?code=<?php echo $post->code; ?>'><img src='http://gtrvitry.net/elgg/mod/ssearch/images/<?php echo $post->images;?>' border='0' title='<?php echo $post->libelle; ?>' alt='<?php echo $post->libelle; ?>'></a></div>
         
         </div>
     <?php

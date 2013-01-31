@@ -1,5 +1,4 @@
 <?php
-
 elgg_register_event_handler('init', 'system', 'ssearch_init');
 
 function ssearch_init() {
